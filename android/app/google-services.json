@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874410750111",
+    "project_id": "bdcoe-app",
+    "storage_bucket": "bdcoe-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874410750111:android:4de97316aff370276f32aa",
+        "android_client_info": {
+          "package_name": "com.example.big_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874410750111-bj5rt3r5febun42f2ngjh7bs42prf3s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.big_data",
+            "certificate_hash": "95eea4deed560019433bc3fe65b6a92e523c300a"
+          }
+        },
+        {
+          "client_id": "874410750111-13o6nf6f86lh4vfr8e3vbn6gcckjdipf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnlSQ90OW10acKGcIKR_J1GEP7D0sNads"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874410750111-13o6nf6f86lh4vfr8e3vbn6gcckjdipf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
